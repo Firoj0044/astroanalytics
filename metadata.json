@@ -1,0 +1,6 @@
+{
+  "name": "AstroAnalytics",
+  "description": "Enterprise-tier analytics and business intelligence dashboard with interactive telemetry, revenue forecasting, top products, customer directory, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
